@@ -1,7 +1,7 @@
-export default function Route3ParellelRoutesContent3Page() {
+export default function C2DefaultPage() {
     return (
         <div style={{ border: '1px solid red', padding: '10px', margin: '10px' }}>
-            <span>@content3 page</span>
+            <span>C2 Default Route</span>
         </div>
     );
 }

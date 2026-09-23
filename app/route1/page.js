@@ -6,7 +6,7 @@ export const metadata = {
   description: 'Route 1 Page Description',
 }
 
-function randomTrueOrFalse() {
+const randomTrueOrFalse = () => {
   return Math.random() > 0.5;
 }
 
